@@ -1,0 +1,21 @@
+div{
+	background-color:#ffffff;
+	text-align:center;
+	width:80%;
+	padding:10px;
+	margin:auto;
+	margin-top:4rem;
+}
+#innerdiv{
+    background-color:rgb(52,49,64)
+    margin:auto;
+}
+
+input{
+	border-radius:.25rem;
+    margin-bottom:8px !important;
+    margin-top:8px !important;
+    height: calc(1.5em + .75rem + 2px);
+    border: 1px solid #ced4da;
+}
+
